@@ -15,7 +15,7 @@ dependencies:
   dio: ^3.0.9
   bloc: ^6.0.1
   rxdart: ^0.24.1
-  flutter_modular: ^1.3.2
+  flutter_modular: ^2.0.1
   flutter:
     sdk: flutter
 
